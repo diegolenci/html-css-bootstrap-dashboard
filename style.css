@@ -12,3 +12,17 @@
     justify-content: space-between;
     padding: 10px;
 }
+
+.fa-pen{
+    border: 1px solid lightslategray;
+    color: lightslategray;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.fa-trash{
+    border: 1px solid lightslategray;
+    color: lightslategray;
+    padding: 5px;
+    border-radius: 5px;
+}
