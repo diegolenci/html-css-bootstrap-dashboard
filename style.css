@@ -1,3 +1,5 @@
+
+
 .form-control{
     background-color: white;
 }
@@ -10,7 +12,8 @@
 .title-catalogo{
     display: flex;
     justify-content: space-between;
-    padding: 10px;
+    padding: 3rem;
+    padding-bottom: 10px;
 }
 
 .fa-pen{
