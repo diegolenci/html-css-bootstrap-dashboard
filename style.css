@@ -6,3 +6,9 @@
     color: white;
     border-color: white;
 }
+
+.title-catalogo{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
