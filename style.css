@@ -4,6 +4,10 @@
     background-color: white;
 }
 
+.btn-primary{
+    align-content: center;
+}
+
 .btn-outline-success{
     color: white;
     border-color: white;
@@ -33,3 +37,43 @@
 h2{
     background-color: #F2F2F2;
 }
+
+
+/*STYLE FORM*/
+
+.nome-cognome{
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    gap: 20px;
+}
+
+.titolo{
+    padding: 20px;
+}
+
+.select-menu{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    gap: 20px;
+}
+
+hr{
+    margin: 20px;
+}
+
+.note{
+    padding: 20px;
+}
+
+.form-check{
+    margin: 20px;
+}
+
+.btn-primary{
+    margin: 20px;
+    padding: 10px;
+}
+
+
